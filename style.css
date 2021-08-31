@@ -1,0 +1,29 @@
+a, a:visited, a:focus {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.containlogo{
+    text-align: center;
+    font-size: 28px;
+    padding: 0px 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.containcontact{
+    position:absolute;
+    right:40px;
+    top:1px;
+}
+
+.headercontact{
+    height:26px;
+    background:#232EF5;
+    color: white;
+    padding:3px 12px;
+}
