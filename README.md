@@ -2,7 +2,7 @@
 
 
 Evaluation développement d'une solution digitale  chez Studi :
-Réalisation d'un site internet de 2 pages mini*
+Réalisation d'un site internet de 2 pages mini
 Utliser le language Html/CSS et le framework Bootstrap
 
 Choix de l'association:
